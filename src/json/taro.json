@@ -1,0 +1,74 @@
+[
+  {
+    "id": 0,
+    "name": "The Fool",
+    "symbolism": "Початок, невинність, спонтанність",
+    "upright": "Новий етап, відвага, довіра до долі",
+    "reversed": "Легковажність, ризикованість, відсутність плану",
+    "urlMain": "https://example.com/fool_main.jpg",
+    "imageUrl": "https://example.com/fool_card.jpg"
+  },
+  {
+    "id": 1,
+    "name": "The Magician",
+    "symbolism": "Дія, маніфестація, сила волі",
+    "upright": "Здатність до реалізації цілей, креативність, впевненість",
+    "reversed": "Маніпуляція, невикористаний потенціал, ілюзія",
+    "urlMain": "https://example.com/magician_main.jpg",
+    "imageUrl": "https://example.com/magician_card.jpg"
+  },
+  {
+    "id": 2,
+    "name": "The High Priestess",
+    "symbolism": "Інтуїція, підсвідомість, таємниця",
+    "upright": "Слухання внутрішнього голосу, терпіння, знання",
+    "reversed": "Прихована інформація, відсутність контакту з інтуїцією",
+    "urlMain": "https://example.com/priestess_main.jpg",
+    "imageUrl": "https://example.com/priestess_card.jpg"
+  },
+  {
+    "id": 3,
+    "name": "The Empress",
+    "symbolism": "Жіночність, природа, достаток",
+    "upright": "Родючість, турбота, матеріальний успіх",
+    "reversed": "Застій, надмірна опіка, проблеми вдома",
+    "urlMain": "https://example.com/empress_main.jpg",
+    "imageUrl": "https://example.com/empress_card.jpg"
+  },
+  {
+    "id": 4,
+    "name": "The Lovers",
+    "symbolism": "Любов, гармонія, вибір",
+    "upright": "Важливе рішення серця, партнерство, цінності",
+    "reversed": "Незгода, дисбаланс, невірний вибір",
+    "urlMain": "https://example.com/lovers_main.jpg",
+    "imageUrl": "https://example.com/lovers_card.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Wheel of Fortune",
+    "symbolism": "Доля, цикли, зміни",
+    "upright": "Щасливий випадок, поворотний момент, прогрес",
+    "reversed": "Невдача, опір змінам, важкий період",
+    "urlMain": "https://example.com/wheel_main.jpg",
+    "imageUrl": "https://example.com/wheel_card.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Death",
+    "symbolism": "Кінець, трансформація, перехід",
+    "upright": "Завершення етапу, глибокі зміни, відродження",
+    "reversed": "Страх змін, застій у мертвій точці",
+    "urlMain": "https://example.com/death_main.jpg",
+    "imageUrl": "https://example.com/death_card.jpg"
+  },
+  {
+    "id": 7,
+    "name": "The World",
+    "symbolism": "Завершення, інтеграція, тріумф",
+    "upright": "Сповнення, успіх, закриття циклу",
+    "reversed": "Незавершені справи, затримки, незадоволення",
+    "urlMain": "https://example.com/world_main.jpg",
+    "imageUrl": "https://example.com/world_card.jpg"
+  }
+]
